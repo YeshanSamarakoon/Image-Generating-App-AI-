@@ -33,6 +33,7 @@ const Home = () => {
                someone who loves to explore creative possibilities, our app transforms 
                text prompts into stunning, unique images in an instant.
           </p>
+          </div>
           <div className="mt-16">
             <FormField/>
           </div>
@@ -69,7 +70,7 @@ const Home = () => {
                     />
                 )}
               </div>
-          </div>
+          
         </div>
         </section>
             </div>
